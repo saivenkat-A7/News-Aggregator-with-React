@@ -81,6 +81,4 @@ Check the [PERFORMANCE.md](PERFORMANCE.md) file for a detailed breakdown of:
 - **Lucide React** (Icons)
 - **Docker** (Containerization)
 
-## License
 
-This project is licensed under the MIT License.
